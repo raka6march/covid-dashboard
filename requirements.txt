@@ -1,2 +1,3 @@
-bokeh==2.4.3
+numpy==1.23.5
+bokeh==3.2.1
 pandas
